@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinTry.TrafficLightPage">
+  <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+  <StackLayout Spacing="10" Title="TL">
+
+    <Label Text="Stop"
+           BackgroundColor="Red"/>
+
+    <Label Text="Slow down"
+           BackgroundColor="Yellow"
+          />
+
+    <Label Text="Go"
+           BackgroundColor="Green"
+            />
+
+  </StackLayout>
+</ContentPage>

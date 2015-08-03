@@ -1,0 +1,6 @@
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.WinPhone\obj\Debug\XamarinTry.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.WinPhone\obj\Debug\App.g.cs
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.WinPhone\obj\Debug\MainPage.g.cs
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.WinPhone\obj\Debug\XamarinTry.WinPhone.g.resources
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.WinPhone\obj\Debug\XamarinTry.WinPhone.Resources.AppResources.resources
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.WinPhone\obj\Debug\XamarinTry.WinPhone.csproj.GenerateResource.Cache

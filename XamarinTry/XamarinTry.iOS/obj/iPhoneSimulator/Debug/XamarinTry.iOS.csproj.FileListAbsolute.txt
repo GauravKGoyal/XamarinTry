@@ -1,0 +1,14 @@
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.iOS\bin\iPhoneSimulator\Debug\XamarinTryiOS.exe
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.iOS\bin\iPhoneSimulator\Debug\XamarinTryiOS.pdb
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.iOS\bin\iPhoneSimulator\Debug\XamarinTry.dll
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.iOS\bin\iPhoneSimulator\Debug\XamarinTry.pdb
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.iOS\bin\iPhoneSimulator\Debug\XamarinTry.dll.mdb
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.iOS\obj\iPhoneSimulator\Debug\XamarinTry.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.iOS\obj\iPhoneSimulator\Debug\XamarinTryiOS.exe
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.iOS\obj\iPhoneSimulator\Debug\XamarinTryiOS.pdb
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry.iOS\obj\iPhoneSimulator\Debug\

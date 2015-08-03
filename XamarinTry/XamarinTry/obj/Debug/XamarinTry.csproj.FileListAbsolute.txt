@@ -1,0 +1,11 @@
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry\obj\Debug\TrafficLightPage.xaml.g.cs
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry\obj\Debug\XamarinTry.dll
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry\obj\Debug\XamarinTry.pdb
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry\bin\Debug\XamarinTry.dll
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry\bin\Debug\XamarinTry.pdb
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\XamarinTry\XamarinTry\XamarinTry\obj\Debug\XamarinTry.csprojResolveAssemblyReference.cache
